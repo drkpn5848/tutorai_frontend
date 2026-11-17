@@ -251,7 +251,7 @@ const AITutor = () => {
                             onClick={() => setActiveTab("stream")}
                         >
                             <Zap size={15} aria-hidden="true" />
-                            Live streaming
+                            Streaming answer
                             <span className="tutor-live-indicator" aria-hidden="true" />
                         </button>
                     </div>
